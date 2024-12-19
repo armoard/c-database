@@ -1,5 +1,6 @@
 # Simple Database in C
-Implements a simple database system in C using data structures like hash tables and dynamic vectors. It allows basic operations such as creating tables, adding columns, inserting rows, updating and deleting data, and querying information.
+I wanted to deepen my understanding of databases so I decided to implement one simple database system in C using data structures like hash tables and dynamic vectors. It allows basic operations such as creating tables, adding columns, inserting rows, updating and deleting data, and querying information.
+Looking forward, I aim to implement more advanced features, such as B-Trees and a more robust parser to handle input queries.
 
 
 ## Requirements
